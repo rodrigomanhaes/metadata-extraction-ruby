@@ -1,5 +1,5 @@
 #coding: utf-8
-#Gem utilizada: unicode
+#Gem: unicode
 require 'unicode'
 load 'constants.rb' #parsing constants and stop words from constants.rb
 require_relative 'parser_ruby/xmlparser'
